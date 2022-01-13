@@ -1,5 +1,6 @@
 ## 1plusX - Enhance and Expand Your First Party Data 👋
 
+![image](backdrop.png)
 <!--
 
 **Here are some ideas to get you started:**

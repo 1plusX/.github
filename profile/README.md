@@ -1,5 +1,3 @@
-## 1plusX
-
 ![image](backdrop.jpg)
 
 
